@@ -1,0 +1,43 @@
+body{
+    background-color:#f2f5f6;
+
+}
+
+header{
+    padding-bottom: 25px;
+    background-color: white;
+    position:sticky;
+    top:0;
+    z-index:1;
+}
+
+.main-style{
+    padding-top: 20px;
+    margin-bottom: 70px;
+}
+
+h1{
+    
+    font-size: 2.4rem;
+}
+
+h2{
+    font-size: 2.2rem;
+}
+
+.centrer-btn{
+    display:block;
+    margin:0 auto;
+}
+
+.bloc{
+   background-color: white;
+    padding:20px;
+    margin:40px 0;
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+ul li{
+    list-style-image : url(../images/bullet.png);
+}
